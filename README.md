@@ -1,6 +1,8 @@
 # rdtp
 Real Data Transfer Protocol. A super light weight socket transfer protocol that doesn't kill every connection like HTTP does.
 
+To see it in action see https://github.com/gablg1/rdtp-chat or https://github.com/arroyobrian/threeway
+
 # Usage
 
 ## Client
